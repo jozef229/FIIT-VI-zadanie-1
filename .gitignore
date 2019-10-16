@@ -1,3 +1,7 @@
+HTML_data/
+data_for_elastic.json
+data_to_parser.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
